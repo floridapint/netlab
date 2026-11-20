@@ -1,0 +1,5 @@
+# NetLab uses only the Python standard library (tkinter, socket, ssl, hashlib, ipaddress).
+# No third-party packages are required to run it.
+#
+# Optional, only for building a standalone Windows .exe:
+#   pip install pyinstaller
